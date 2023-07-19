@@ -1,4 +1,4 @@
 * linguist-vendored
-*.react.js linguist-vendored=false
+*.react.js linguist-vendored=true
 
 
